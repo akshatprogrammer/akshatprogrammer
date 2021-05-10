@@ -24,7 +24,11 @@ I'm Akshat Jain pursuing Bachelors in Computer science and engineering. I am an 
 💻 C/C++/Java/Python </br>
 👨‍💻Machine Learning</br>
 🎯 I’m currently learning ML and Video Editing </br>
+## Connect with me: 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akshatprogrammer)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akshatjaingeu/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/jjainakshat/)  </br>
+## Top Languages 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatprogrammer)](https://github.com/anuraghazra/github-readme-stats)</br>
+## My Stats
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=akshatprogrammer&show_icons=true)  </br>
+## How Popular am I?
 ![Profile views](https://gpvc.arturio.dev/akshatprogrammer)</br>
