@@ -12,7 +12,7 @@
 - 💬 Ask me about Time Management 
 - 📫 How to reach me: akshat.kodia@gmail.com
 - 😄 Pronouns: Coder/Programmer
-- ⚡ Fun fact: You look cute when you smile.
+- ⚡ Fun fact: You look cute when you code.
 
 
 # Hi  👋,I'm Akshat Jain
