@@ -19,9 +19,7 @@
 ## Think - Apply - Deploy.
 ![](https://github.com/akshatprogrammer/akshatprogrammer/blob/main/hqculc19byl11.jpg)
 I'm Akshat Jain pursuing Bachelors in Computer science and engineering. I am an Average programmer and im trying to improve my Skills by practicing daily. </br>
-## LINKEDIN
-<script src="https://platform.linkedin.com/badges/js/profile.js" async defer type="text/javascript"></script>
-<div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="dark" data-type="VERTICAL" data-vanity="akshatjaingeu" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/akshatjaingeu?trk=profile-badge">Akshat Jain</a></div>
+
               
 ## Skills:
 💻 C/C++/Java/Python </br>
