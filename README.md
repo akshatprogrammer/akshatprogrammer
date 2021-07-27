@@ -1,5 +1,11 @@
 ### Hi there 👋
+ <img src="./Images/giphy.webp" width="25px">
 
+<img
+  align="right"
+  width="275x"
+  src="./Images/programming1.gif"
+/>
 <!--
 **akshatprogrammer/akshatprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
