@@ -37,7 +37,7 @@
   </a> 
 </p>
 
-# Hi  👋,I'm Akshat Jain
+# Hi  👋,I'm Akshat J
 ## Think - Apply - Deploy.
 ![](https://github.com/akshatprogrammer/akshatprogrammer/blob/main/hqculc19byl11.jpg)
 I'm Akshat Jain pursuing Bachelors in Computer science and engineering. I am an Average programmer and im trying to improve my Skills by practicing daily. </br>
