@@ -10,7 +10,7 @@
   src="https://miro.medium.com/max/1400/1*0FqDC0_r1f5xFz3IywLYRA.jpeg"
 />
 
-- 🔭 I’m currently working on "Stock Market Predictions"
+- 🔭 I’m currently working on "Face Mask Detection"
 - 🌱 I’m currently learning Machine Learning and Data Science
 - 👯 I’m looking to collaborate on my Project
 - 🤔 I’m looking for help with Logistic Regression and Naive Bayes Theorem 
