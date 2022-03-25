@@ -13,7 +13,7 @@
 - 🔭 I’m currently working on "Face Mask Detection"
 - 🌱 I’m currently learning Machine Learning and Data Science
 - 👯 I’m looking to collaborate on my Project
-- 🤔 I’m looking for help with Logistic Regression and Naive Bayes Theorem 
+- 🤔 I’m looking for someone who can conrtibute in my Dataset.
 - 💬 Ask me about Time Management 
 - 📫 How to reach me: akshat.kodia@gmail.com
 - 😄 Pronouns: Coder/Programmer
