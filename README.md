@@ -10,8 +10,8 @@
   src="https://miro.medium.com/max/1400/1*0FqDC0_r1f5xFz3IywLYRA.jpeg"
 />
 
-- 🔭 I’m currently working on "Face Mask Detection"
-- 🌱 I’m currently learning Machine Learning and Data Science
+- 🔭 I’m currently working on "Interview Management System"
+- 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on my Project
 - 🤔 I’m looking for someone who can conrtibute in my Dataset.
 - 💬 Ask me about Time Management 
