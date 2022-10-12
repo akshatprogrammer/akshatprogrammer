@@ -1,9 +1,13 @@
-### Hi there 👋 
-
 <!--
 **akshatprogrammer/akshatprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
-## About Me:
+## About Me
+I am <b>Akshat Jain </b>, I am pursuing B.Tech in CSE from GEHU, Dehradun. I am in my **final year**. I have a good knowledge in Programming Languages like **C++, Java, C, Python, Javascript and Php**.
+Also I've developed several projects in the domain of **Web Development and Machine Learning, Image Processing and Computer Vision**.
+Took part in several hackathons like **Amazon ML Challenge**(296th rank), **MLH Init 2022** (73rd rank), **Tally Codebrewers** (Finalist) and **Wezbo Hacks** (Finalist).
+I was selected into **Cognizant's** Digital Nurture 2.0 Program where I was the **National and College Topper**.
+
+
 <img
   align="right"
   width="275x"
@@ -33,30 +37,24 @@
   <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
   </a> 
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> 
-  </a> 
+  </a>
+  <a href="https://www.mysql.com/" target="_blank"> <img src="https://symbols.getvecta.com/stencil_28/61_sql-database-generic.90b41636a8.svg" alt="sql" width="40" height="40"/> 
+  </a>
+  <a href="https://cloud.google.com/" target="_blank"> <img src="https://www.gstatic.com/devrel-devsite/prod/vffb6f747a4a347f610c19877672b152494f6401418724d2bc2f21104794d57bc/cloud/images/favicons/onecloud/apple-icon.png" alt="gcp" width="40" height="40"/> 
+  </a>
+ <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png" alt="sql" width="40" height="40"/> 
+  </a>
 </p>
 
-# Hi  👋,I'm Akshat J
-## Think - Apply - Deploy.
-My name is <b>Akshat Jain </b>, I am pursuing B.Tech in CSE from GEHU, Dehradun. I am in my **final year**. I have a good knowledge in Programming Languages like **C++, Java, C, Python, Javascript and Php**.
-Also I've developed several projects in the domain of **Web Development and Machine Learning, Image Processing and Computer Vision**.
-Took part in several hackathons like **Amazon ML Challenge**(296th rank), **MLH Init 2022** (73rd rank), **Tally Codebrewers** (Finalist) and **Wezbo Hacks** (Finalist).
-I was selected into **Cognizant's** Digital Nurture 2.0 Program where I was the **National and College Topper**.
 
 
 ## Stats
- [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshatprogrammer&theme=neon-dark)](https://git.io/streak-stats)
-
-  <img
+ [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=akshatprogrammer&theme=neon-dark)](https://git.io/streak-stats) <img
     align="right"
     height="165"
     src="https://github-readme-stats.vercel.app/api?username=akshatprogrammer&count_private=true&show_icons=true&custom_title=Github%20Status&hide=issues&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B32"
        />
               
-## Skills:
-💻 C/C++/Java/Python </br>
-👨‍💻Machine Learning</br>
-🎯 I’m currently learning ML and Video Editing </br>
 
 ## Badges
 [![@akshatprogrammer's Holopin board](https://holopin.me/akshatprogrammer)](https://holopin.io/@akshatprogrammer)
@@ -66,8 +64,7 @@ I was selected into **Cognizant's** Digital Nurture 2.0 Program where I was the 
 [<img src='https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/198px-Instagram_logo_2016.svg.png?20210403190622' alt='insta' height='40'>](https://www.instagram.com/jjainakshat/) 
 [<img src='https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg' height='40'>](https://www.hackerrank.com/akshat_kodia)</br>
 ## Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatprogrammer)](https://github.com/anuraghazra/github-readme-stats)
- <img
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=akshatprogrammer)](https://github.com/anuraghazra/github-readme-stats) <img
     align="right"
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=rafacdomin&layout=compact&exclude_repo=PingMeRN&hide_border=true&bg_color=ffffff00&title_color=f65800&icon_color=32ff7b&text_color=FF7B32"
        />
