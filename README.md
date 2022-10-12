@@ -56,6 +56,8 @@ I'm Akshat Jain pursuing Bachelors in Computer science and engineering. I am an 
 👨‍💻Machine Learning</br>
 🎯 I’m currently learning ML and Video Editing </br>
 
+## Badges
+[![@akshatprogrammer's Holopin board](https://holopin.me/akshatprogrammer)](https://holopin.io/@akshatprogrammer)
 ## Connect with me: 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/akshatprogrammer)
 [<img src='https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/akshatjaingeu/) 
