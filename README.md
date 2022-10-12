@@ -10,10 +10,9 @@
   src="https://miro.medium.com/max/1400/1*0FqDC0_r1f5xFz3IywLYRA.jpeg"
 />
 
-- 🔭 I’m currently working on "Interview Management System"
+- 🔭 I’m currently working on "Machine Learning Enabled Interview Taking Application"
 - 🌱 I’m currently learning React
 - 👯 I’m looking to collaborate on my Project
-- 🤔 I’m looking for someone who can conrtibute in my Dataset.
 - 💬 Ask me about Time Management 
 - 📫 How to reach me: akshat.kodia@gmail.com
 - 😄 Pronouns: Coder/Programmer
