@@ -2,7 +2,7 @@
 **akshatprogrammer/akshatprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## About Me
-I am <b>Akshat Jain </b>, I am pursuing B.Tech in CSE from GEHU, Dehradun. I am in my **final year**. I have a good knowledge in Programming Languages like **C++, Java, C, Python, Javascript and Php**.
+I am <b>Akshat Jain </b>, I am  B.Tech in CSE graduate from GEHU, Dehradun. I have a good knowledge in Programming Languages like **C++, Java, C, Python, Javascript and Php**.
 Also I've developed several projects in the domain of **Web Development and Machine Learning, Image Processing and Computer Vision**.
 Took part in several hackathons like **Amazon ML Challenge**(296th rank), **MLH Init 2022** (73rd rank), **Tally Codebrewers** (Finalist) and **Wezbo Hacks** (Finalist).
 I was selected into **Cognizant's** Digital Nurture 2.0 Program where I was the **National and College Topper**.
