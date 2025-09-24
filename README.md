@@ -16,7 +16,7 @@ Rewards and Achievements
 2. Mentor, Tally CodeBrewers '24 : The team under me won the TCB 24.
 3. Owner of my layer : Participates in desing and architecture.
 
-## College Days
+## Some More About Me
 Also I've developed several projects in the domain of **Web Development and Machine Learning, Image Processing and Computer Vision**.
 Took part in several hackathons like **Amazon ML Challenge**(296th rank), **MLH Init 2022** (73rd rank), **Tally Codebrewers** (Finalist) and **Wezbo Hacks** (Finalist).
 I was selected into **Cognizant's** Digital Nurture 2.0 Program where I was the **National and College Topper**.
@@ -28,13 +28,12 @@ I was selected into **Cognizant's** Digital Nurture 2.0 Program where I was the 
   src="https://miro.medium.com/max/1400/1*0FqDC0_r1f5xFz3IywLYRA.jpeg"
 />
 
-- 🔭 I’m currently working on "Machine Learning Enabled Interview Taking Application"
-- 🌱 I’m currently learning React
+- 🌱 I’m currently learning Java and Spring Boot
 - 👯 I’m looking to collaborate on my Project
 - 💬 Ask me about Time Management 
 - 📫 How to reach me: akshat.kodia@gmail.com
 - 😄 Pronouns: Coder/Programmer
-- ⚡ Fun fact: You look cute when you code.
+- ⚡ Fun fact: I am a freelance DSA instructor too. 
 
 <h2 align="left">Languages and Tools :</h2>
 <p align="left"> 
