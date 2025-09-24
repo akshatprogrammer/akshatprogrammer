@@ -11,6 +11,10 @@ Also, Custodian for **Code Sanity** area, which includes:
 2. **Static Code Analysis** :  On top of LLVM's clang-tidy, made changes according to our company's standards.
 3. **Code Coverage** : Used tools like llvm-cov and Visual Studio's coverage and integrated in the build system, through CMake across Linux, Mac, Windows and Android.
 
+Rewards and Achievements 
+1. Star of Quarter [AMJ '25]: _"For his outstanding performance, dedication and commitment at work in the TallyWorld PMT area and the ownership that he has taken in closing the work items or topics."_
+2. Mentor, Tally CodeBrewers '24 : The team under me won the TCB 24.
+3. Owner of my layer : Participates in desing and architecture.
 
 ## College Days
 Also I've developed several projects in the domain of **Web Development and Machine Learning, Image Processing and Computer Vision**.
