@@ -2,7 +2,17 @@
 **akshatprogrammer/akshatprogrammer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 ## About Me
-I am <b>Akshat Jain </b>, I am  B.Tech in CSE graduate from GEHU, Dehradun. I have a good knowledge in Programming Languages like **C++, Java, C, Python, Javascript and Php**.
+I am <b>Akshat Jain </b>, SDE-2 at Tally Solutions. Working in the team for creation of Next-Gen Tally Product.
+Currently in Internal Tools team (known as Engineering SubSystem) which helps the above layers the support of being able to build and be able to compile code across different OS platforms and configuration through only one dev environment, Also Developed Visual Extension for Source Control which has all features of git, just click on buttons and it's done.
+
+Also, Custodian for **Code Sanity** area, which includes:
+
+1. **Code Formatting** : On top of LLVM's clang-formatter, made changes according to our company's standards.
+2. **Static Code Analysis** :  On top of LLVM's clang-tidy, made changes according to our company's standards.
+3. **Code Coverage** : Used tools like llvm-cov and Visual Studio's coverage and integrated in the build system, through CMake across Linux, Mac, Windows and Android.
+
+
+## College Days
 Also I've developed several projects in the domain of **Web Development and Machine Learning, Image Processing and Computer Vision**.
 Took part in several hackathons like **Amazon ML Challenge**(296th rank), **MLH Init 2022** (73rd rank), **Tally Codebrewers** (Finalist) and **Wezbo Hacks** (Finalist).
 I was selected into **Cognizant's** Digital Nurture 2.0 Program where I was the **National and College Topper**.
